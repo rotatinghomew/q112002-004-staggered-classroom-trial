@@ -1,0 +1,17 @@
+[
+  {
+    "student": "1A-1",
+    "to_room": "1B",
+    "day": 11
+  },
+  {
+    "student": "2B-2",
+    "to_room": "2D",
+    "day": 25
+  },
+  {
+    "student": "3A-3",
+    "to_room": "3H",
+    "day": 38
+  }
+]

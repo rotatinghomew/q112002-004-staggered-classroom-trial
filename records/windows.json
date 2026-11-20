@@ -1,0 +1,191 @@
+[
+  {
+    "room": "1A",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "1B",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "1C",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "1D",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "1E",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "1F",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "1G",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "1H",
+    "day": 10,
+    "open_day": 14,
+    "close_day": 19,
+    "state": "active"
+  },
+  {
+    "room": "2A",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "2B",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "2C",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "2D",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "2E",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "2F",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "2G",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "2H",
+    "day": 24,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "active"
+  },
+  {
+    "room": "3A",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "3B",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "3C",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "3D",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "3E",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "3F",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "3G",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "3H",
+    "day": 38,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "active"
+  },
+  {
+    "room": "2D",
+    "day": 28,
+    "open_day": 28,
+    "close_day": 33,
+    "state": "cancelled"
+  },
+  {
+    "room": "2D",
+    "day": 31,
+    "open_day": 34,
+    "close_day": 40,
+    "state": "active"
+  },
+  {
+    "room": "3H",
+    "day": 42,
+    "open_day": 42,
+    "close_day": 47,
+    "state": "cancelled"
+  }
+]

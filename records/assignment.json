@@ -1,0 +1,170 @@
+[
+  {
+    "week": 1,
+    "block": "b1",
+    "room": "1A",
+    "assigned": true,
+    "published": 5
+  },
+  {
+    "week": 1,
+    "block": "b1",
+    "room": "1B",
+    "assigned": false,
+    "published": 5
+  },
+  {
+    "week": 1,
+    "block": "b2",
+    "room": "1C",
+    "assigned": true,
+    "published": 5
+  },
+  {
+    "week": 1,
+    "block": "b2",
+    "room": "1D",
+    "assigned": false,
+    "published": 5
+  },
+  {
+    "week": 1,
+    "block": "b3",
+    "room": "1E",
+    "assigned": true,
+    "published": 5
+  },
+  {
+    "week": 1,
+    "block": "b3",
+    "room": "1F",
+    "assigned": false,
+    "published": 5
+  },
+  {
+    "week": 1,
+    "block": "b4",
+    "room": "1G",
+    "assigned": true,
+    "published": 5
+  },
+  {
+    "week": 1,
+    "block": "b4",
+    "room": "1H",
+    "assigned": false,
+    "published": 5
+  },
+  {
+    "week": 2,
+    "block": "b1",
+    "room": "2A",
+    "assigned": false,
+    "published": 19
+  },
+  {
+    "week": 2,
+    "block": "b1",
+    "room": "2B",
+    "assigned": true,
+    "published": 19
+  },
+  {
+    "week": 2,
+    "block": "b2",
+    "room": "2C",
+    "assigned": false,
+    "published": 19
+  },
+  {
+    "week": 2,
+    "block": "b2",
+    "room": "2D",
+    "assigned": true,
+    "published": 19
+  },
+  {
+    "week": 2,
+    "block": "b3",
+    "room": "2E",
+    "assigned": false,
+    "published": 19
+  },
+  {
+    "week": 2,
+    "block": "b3",
+    "room": "2F",
+    "assigned": true,
+    "published": 19
+  },
+  {
+    "week": 2,
+    "block": "b4",
+    "room": "2G",
+    "assigned": false,
+    "published": 19
+  },
+  {
+    "week": 2,
+    "block": "b4",
+    "room": "2H",
+    "assigned": true,
+    "published": 19
+  },
+  {
+    "week": 3,
+    "block": "b1",
+    "room": "3A",
+    "assigned": true,
+    "published": 33
+  },
+  {
+    "week": 3,
+    "block": "b1",
+    "room": "3B",
+    "assigned": false,
+    "published": 33
+  },
+  {
+    "week": 3,
+    "block": "b2",
+    "room": "3C",
+    "assigned": true,
+    "published": 33
+  },
+  {
+    "week": 3,
+    "block": "b2",
+    "room": "3D",
+    "assigned": false,
+    "published": 33
+  },
+  {
+    "week": 3,
+    "block": "b3",
+    "room": "3E",
+    "assigned": true,
+    "published": 33
+  },
+  {
+    "week": 3,
+    "block": "b3",
+    "room": "3F",
+    "assigned": false,
+    "published": 33
+  },
+  {
+    "week": 3,
+    "block": "b4",
+    "room": "3G",
+    "assigned": true,
+    "published": 33
+  },
+  {
+    "week": 3,
+    "block": "b4",
+    "room": "3H",
+    "assigned": false,
+    "published": 33
+  }
+]

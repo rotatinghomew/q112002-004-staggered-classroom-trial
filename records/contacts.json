@@ -1,0 +1,30 @@
+[
+  {
+    "week": 1,
+    "day": 10,
+    "room": "1A",
+    "other": "1B",
+    "kind": "同教师"
+  },
+  {
+    "week": 1,
+    "day": 11,
+    "room": "1C",
+    "other": "1F",
+    "kind": "联合讨论"
+  },
+  {
+    "week": 2,
+    "day": 25,
+    "room": "2B",
+    "other": "2D",
+    "kind": "联合讨论"
+  },
+  {
+    "week": 3,
+    "day": 38,
+    "room": "3A",
+    "other": "3H",
+    "kind": "临时合班"
+  }
+]

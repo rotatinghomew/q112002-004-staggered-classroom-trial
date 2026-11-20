@@ -1,0 +1,51 @@
+{
+  "assignment": [
+    "week",
+    "block",
+    "room",
+    "assigned",
+    "published"
+  ],
+  "enrollment": [
+    "student",
+    "room",
+    "cohort"
+  ],
+  "contacts": [
+    "week",
+    "day",
+    "room",
+    "other",
+    "kind"
+  ],
+  "moves": [
+    "student",
+    "to_room",
+    "day"
+  ],
+  "delivery": [
+    "student",
+    "day",
+    "independent_first"
+  ],
+  "windows": [
+    "room",
+    "day",
+    "open_day",
+    "close_day",
+    "state"
+  ],
+  "observations": [
+    "student",
+    "day",
+    "score"
+  ],
+  "proposals": [
+    "proposal",
+    "room",
+    "block",
+    "teacher",
+    "partner",
+    "eligible"
+  ]
+}

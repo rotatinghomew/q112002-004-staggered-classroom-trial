@@ -1,0 +1,194 @@
+[
+  {
+    "proposal": "分开",
+    "room": "4A",
+    "block": "b1",
+    "teacher": "t0",
+    "partner": null,
+    "eligible": 6
+  },
+  {
+    "proposal": "分开",
+    "room": "4B",
+    "block": "b1",
+    "teacher": "t1",
+    "partner": null,
+    "eligible": 7
+  },
+  {
+    "proposal": "分开",
+    "room": "4C",
+    "block": "b2",
+    "teacher": "t2",
+    "partner": null,
+    "eligible": 8
+  },
+  {
+    "proposal": "分开",
+    "room": "4D",
+    "block": "b2",
+    "teacher": "t3",
+    "partner": null,
+    "eligible": 6
+  },
+  {
+    "proposal": "分开",
+    "room": "4E",
+    "block": "b3",
+    "teacher": "t4",
+    "partner": null,
+    "eligible": 7
+  },
+  {
+    "proposal": "分开",
+    "room": "4F",
+    "block": "b3",
+    "teacher": "t5",
+    "partner": null,
+    "eligible": 8
+  },
+  {
+    "proposal": "分开",
+    "room": "4G",
+    "block": "b4",
+    "teacher": "t6",
+    "partner": null,
+    "eligible": 6
+  },
+  {
+    "proposal": "分开",
+    "room": "4H",
+    "block": "b4",
+    "teacher": "t7",
+    "partner": null,
+    "eligible": 7
+  },
+  {
+    "proposal": "混排",
+    "room": "4A",
+    "block": "b1",
+    "teacher": "t0",
+    "partner": "4B",
+    "eligible": 6
+  },
+  {
+    "proposal": "混排",
+    "room": "4B",
+    "block": "b1",
+    "teacher": "t0",
+    "partner": "4A",
+    "eligible": 7
+  },
+  {
+    "proposal": "混排",
+    "room": "4C",
+    "block": "b2",
+    "teacher": "t1",
+    "partner": "4D",
+    "eligible": 8
+  },
+  {
+    "proposal": "混排",
+    "room": "4D",
+    "block": "b2",
+    "teacher": "t1",
+    "partner": "4C",
+    "eligible": 6
+  },
+  {
+    "proposal": "混排",
+    "room": "4E",
+    "block": "b3",
+    "teacher": "t2",
+    "partner": "4F",
+    "eligible": 7
+  },
+  {
+    "proposal": "混排",
+    "room": "4F",
+    "block": "b3",
+    "teacher": "t2",
+    "partner": "4E",
+    "eligible": 8
+  },
+  {
+    "proposal": "混排",
+    "room": "4G",
+    "block": "b4",
+    "teacher": "t3",
+    "partner": "4H",
+    "eligible": 6
+  },
+  {
+    "proposal": "混排",
+    "room": "4H",
+    "block": "b4",
+    "teacher": "t3",
+    "partner": "4G",
+    "eligible": 7
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4A",
+    "block": "b1",
+    "teacher": "t0",
+    "partner": null,
+    "eligible": 6
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4B",
+    "block": "b1",
+    "teacher": "t0",
+    "partner": null,
+    "eligible": 7
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4C",
+    "block": "b2",
+    "teacher": "t1",
+    "partner": null,
+    "eligible": 8
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4D",
+    "block": "b2",
+    "teacher": "t1",
+    "partner": null,
+    "eligible": 6
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4E",
+    "block": "b3",
+    "teacher": "t2",
+    "partner": null,
+    "eligible": 7
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4F",
+    "block": "b3",
+    "teacher": "t2",
+    "partner": null,
+    "eligible": 8
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4G",
+    "block": "b4",
+    "teacher": "t3",
+    "partner": null,
+    "eligible": 6
+  },
+  {
+    "proposal": "只共享教师",
+    "room": "4H",
+    "block": "b4",
+    "teacher": "t3",
+    "partner": null,
+    "eligible": 7
+  }
+]
